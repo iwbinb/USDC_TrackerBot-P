@@ -1,0 +1,14 @@
+{
+  "name": "usdc-trackerbot-core",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Basic offline core examples for USDC_TrackerBot.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test",
+    "demo": "node examples/demo.js"
+  }
+}
